@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>重庆八中文创 - 老师人偶</title>
+  <link rel="stylesheet" href="./assets/styles.css">
+</head>
+<body>
+  <header class="header">
+    <h1>重庆八中文创产品</h1>
+    <nav>
+      <a href="index.html">首页</a>
+      <a href="products.html">人偶展示</a>
+    </nav>你
+  </header>
+
+  <main class="intro">
+    <section>
+      <h2>学校简介</h2>
+      <p>
+        重庆市第八中学校，简称“重庆八中”，创建于1938年，是重庆市重点中学之一，秉承“志远行敏，厚德载物”的校训，致力于培养德智体美劳全面发展的优秀人才。作为一所有深厚文化底蕴与现代教育理念的百年名校，重庆八中不仅注重学术，也积极推动校园文化建设，推出了富有创意的文创产品，展现八中精神与时代风采。
+      </p>
+    </section>
+
+    <section>
+      <h2>文创产品：老师人偶</h2>
+      <p>
+        本系列文创以“老师人偶”为核心设计元素，从真实八中教师形象出发，结合Q版造型、校徽蓝配色、精致细节还原课堂风采，是具纪念价值与收藏意义的校园特色纪念品。
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 重庆八中文创项目</p>
+  </footer>
+</body>
+</html>
